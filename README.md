@@ -26,7 +26,7 @@ This project implements an AI-powered task management system that analyzes Jira 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone (https://github.com/Harshkkk6/-AI-Powered-Task-Management-System.git)
 cd AI-Powered-Task-Management-System
 ```
 
