@@ -38,7 +38,7 @@ An intelligent task management system that uses Natural Language Processing (NLP
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/AI-Powered-Task-Management-System.git
+   git clone https://github.com/Harshkkk6/-AI-Powered-Task-Management-System.git
    cd AI-Powered-Task-Management-System
    ```
 
