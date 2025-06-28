@@ -2,6 +2,29 @@
 
 An intelligent task management system that uses Natural Language Processing (NLP) and Machine Learning (ML) to analyze, categorize, and predict task properties from Jira data. The system features advanced BERT embeddings, XGBoost models, and an interactive Streamlit dashboard.
 
+## ⚡ Quick Start (5 minutes)
+
+1. **Clone & Setup:**
+   ```bash
+   git clone https://github.com/Harshkkk6/-AI-Powered-Task-Management-System.git
+   cd AI-Powered-Task-Management-System
+   python -m venv venv
+   venv\Scripts\activate  # Windows
+   # source venv/bin/activate  # macOS/Linux
+   pip install -r requirements.txt
+   ```
+
+2. **Run the App:**
+   ```bash
+   streamlit run streamlit_app.py
+   ```
+
+3. **Open Browser:** Go to **http://localhost:8501**
+
+4. **Start Using:** Add your first task and watch AI predict its type and priority!
+
+📖 **For detailed setup instructions, see [SETUP.md](SETUP.md)**
+
 ## 🚀 Features
 
 - **Smart Task Classification**: Automatically categorizes tasks using BERT embeddings and TF-IDF features
@@ -11,6 +34,9 @@ An intelligent task management system that uses Natural Language Processing (NLP
 - **Deadline Alerts**: Automated deadline tracking and overdue task notifications
 - **Similar Task Finder**: AI-powered task similarity matching
 - **Data Export**: Easy export functionality for task data
+- **Smart Assignment**: AI-powered team member recommendations
+- **Recent Tasks Management**: View and delete tasks with bulk operations
+- **Team Health Monitoring**: Comprehensive alerts and performance tracking
 
 ## 📋 Project Structure
 
