@@ -53,16 +53,34 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Model files (optional - uncomment if you don't want to track large model files)
-# *.pkl
-# *.joblib
-
-# Data files (optional - uncomment if you don't want to track large data files)
-# *.csv
-# *.json
-# *.parquet
+logs/
 
 # Temporary files
 *.tmp
-*.temp 
+*.temp
+temp/
+tmp/
+
+# Data files (optional - uncomment if you don't want to track data)
+# *.csv
+# *.json
+# *.xlsx
+# *.xls
+
+# Model files (optional - uncomment if models are too large)
+# *.pkl
+# *.joblib
+# *.h5
+# *.hdf5
+
+# Streamlit
+.streamlit/
+
+# IDE
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup 
