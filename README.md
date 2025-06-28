@@ -2,6 +2,8 @@
 
 An intelligent task management system that uses Natural Language Processing (NLP) and Machine Learning (ML) to analyze, categorize, and predict task properties from Jira data. The system features advanced BERT embeddings, XGBoost models, and an interactive Streamlit dashboard.
 
+Link to the video demonstration:- https://drive.google.com/file/d/1FMaZ8xEeqLmVfFCda9zzBMGdhKYhocL-/view?usp=sharing
+
 ## ⚡ Quick Start (5 minutes)
 
 1. **Clone & Setup:**
